@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Milk",
+    "category": "Dairy",
+    "thumbnail_url": "",
+    "unit": "litre",
+    "options": [
+      {
+        "price": 1.50,
+        "supermarket": "Tesco",
+        "address": "123 High Street, Dublin"
+      },
+      {
+        "price": 1.50,
+        "supermarket": "Lidl",
+        "address": "11 High Street, Dublin"
+      }
+    ]
+  }
+]

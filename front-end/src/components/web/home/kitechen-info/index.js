@@ -4,6 +4,7 @@ import './kitechen.css';
 import { connect } from 'react-redux';
 import { addToCart } from '../../../../actions/productActions';
 import products from "../../../../products.json";
+import categories from "../../../../categories.json";
 import ProductPreview from "../../product-preview";
 import CategoryPreview from "../../category-preview";
 
@@ -15,7 +16,15 @@ function categoriesList(products) {
             categories.push(product.category);
         }
     });
+
     return categories;
+}
+
+// get the corresponding category from name
+function getCategory(name) {
+    let category = categories.find(category => category.name === name);
+    console.log(category);
+    return category;
 }
 
 const Kitchenitem = (props) => {
@@ -36,7 +45,7 @@ const Kitchenitem = (props) => {
                         {products.filter((product) => {
                             return (product.offer)
                         }).map((product, index) => (
-                            <ProductPreview index={index} product={product}/>
+                            <ProductPreview state={this.props.state} index={index} product={product}/>
                         ))}
                         <div className="clearfix" />
                     </div>
@@ -108,7 +117,7 @@ const Kitchenitem = (props) => {
                         </div>
                         <div className=" con-w3l">
                             {categoriesList(products).map((category, index) => (
-                                <CategoryPreview index={index} product={category}/>
+                                <CategoryPreview index={index} category={getCategory(category)}/>
                             ))}
                             <div className="clearfix" />
                         </div>
@@ -128,7 +137,7 @@ const Kitchenitem = (props) => {
                         </div>
                         <div className=" con-w3l">
                             {products.map((product, index) => (
-                                <ProductPreview index={index} product={product}/>
+                                <ProductPreview state={this.props.state} index={index} product={product}/>
                             ))}
                             <div className="clearfix" />
                         </div>

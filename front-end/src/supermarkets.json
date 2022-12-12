@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tesco",
+    "thumbnail_url": "/images/of.png",
+    "address": "123 High Street, Dublin"
+  },
+  {
+    "name": "Lidl",
+    "thumbnail_url": "/images/of.png",
+    "address": "11 High Street, Dublin"
+  },
+  {
+    "name": "Spar",
+    "thumbnail_url": "/images/of.png",
+    "address": "11 Low Street, Dublin"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Dairy",
+    "thumbnail_url": "/images/of.png"
+  },
+  {
+    "name": "Butcher",
+    "thumbnail_url": "/images/of.png"
+  },
+  {
+    "name": "Bakery",
+    "thumbnail_url": "/images/of.png"
+  },
+  {
+    "name": "Snack",
+    "thumbnail_url": "/images/of.png"
+  },
+  {
+    "name": "Drinks",
+    "thumbnail_url": "/images/of.png"
+  },
+  {
+    "name": "Vegetable",
+    "thumbnail_url": "/images/of.png"
+  },
+  {
+    "name": "Fruit",
+    "thumbnail_url": "/images/of.png"
+  }
+]

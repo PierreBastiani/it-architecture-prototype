@@ -4,6 +4,7 @@
       "category": "Dairy",
       "thumbnail_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tesco.com%2Fgroceries%2Fen-GB%2Fproducts%2F257750530&psig=AOvVaw3M5aozqy018-4eGT1tQKVf&ust=1670941771932000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjZ4qel9PsCFQAAAAAdAAAAABAR",
       "unit": "L",
+      "offer": "true",
       "options": [
         {
           "price": 1.50,
@@ -165,6 +166,7 @@
         "category": "Snack",
         "thumbnail_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.auchan.fr%2Fgalak-tablette-de-chocolat-blanc%2Fpr-C1257939&psig=AOvVaw2Q4ENxC3dGi3XXW4x5xip6&ust=1670942336891000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKjtlbWn9PsCFQAAAAAdAAAAABAE",
         "unit": "Kg",
+        "offer": "true",
         "options": [
           {
             "price": 1.50,
@@ -257,6 +259,7 @@
         "category": "Vegetable",
         "thumbnail_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dinneratthezoo.com%2Fhoney-roasted-carrots%2F&psig=AOvVaw1gUdXX-tDhumIpg1D3KJLo&ust=1670942475222000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKibkfen9PsCFQAAAAAdAAAAABAJ",
         "unit": "Kg",
+        "offer": "true",
         "options": [
           {
             "price": 3.00,
@@ -303,6 +306,7 @@
         "category": "Fruit",
         "thumbnail_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cooking-chef.fr%2Fespace-recettes%2Fdesserts-entremets-gateaux%2Fsorbet-poire&psig=AOvVaw2v7Ps-klQk7NV3qxyit371&ust=1670942557476000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKCRuZ6o9PsCFQAAAAAdAAAAABAE",
         "unit": "Kg",
+        "offer": "true",
         "options": [
           {
             "price": 2.00,

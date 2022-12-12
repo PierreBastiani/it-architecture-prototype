@@ -1,30 +1,30 @@
 [
   {
     "name": "Dairy",
-    "thumbnail_url": "/images/of.png"
+    "thumbnail_url": "https://domf5oio6qrcr.cloudfront.net/medialibrary/9685/iStock-544807136.jpg"
   },
   {
     "name": "Butcher",
-    "thumbnail_url": "/images/of.png"
+    "thumbnail_url": "https://s.wsj.net/public/resources/images/OD-BI026_BUTCHE_M_20151012104051.jpg"
   },
   {
     "name": "Bakery",
-    "thumbnail_url": "/images/of.png"
+    "thumbnail_url": "https://www.expedit.eu/media/11173/bakery-solutions03.jpg?mode=crop&heightratio=0.4845360824742268041237113402&width=1920"
   },
   {
     "name": "Snack",
-    "thumbnail_url": "/images/of.png"
+    "thumbnail_url": "https://www.apax.fr/wp-content/uploads/2021/05/EuropeSnacks-crisps-and-snacks-manufacturer-Foot-atmosphere-527x527.jpg"
   },
   {
     "name": "Drinks",
-    "thumbnail_url": "/images/of.png"
+    "thumbnail_url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F44%2F2021%2F06%2F09%2Farticle-red-drink.jpg"
   },
   {
     "name": "Vegetable",
-    "thumbnail_url": "/images/of.png"
+    "thumbnail_url": "https://cdn.britannica.com/17/196817-050-6A15DAC3/vegetables.jpg?w=400&h=300&c=crop"
   },
   {
     "name": "Fruit",
-    "thumbnail_url": "/images/of.png"
+    "thumbnail_url": "https://www.gastronomiac.com/wp/wp-content/uploads/2021/08/Fruits.jpg"
   }
 ]

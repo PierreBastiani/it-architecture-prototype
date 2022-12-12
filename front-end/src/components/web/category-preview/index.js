@@ -7,18 +7,11 @@ export default class CategoryPreview extends Component {
             <div className="col-md-3 m-wthree" style={{"paddingBottom": "3rem"}}>
                 <div className="col-m">
                     <Link to="#" data-toggle="modal" data-target={`#myModal${this.props.index + 1}`} className="offer-img">
-                        <img src={`${this.props.category}`} className="img-responsive" alt="" />
+                        <img src={`${this.props.category.thumbnail_url}`} className="img-responsive" alt="" />
                     </Link>
                     <div className="mid-1">
                         <div className="women">
-                            <h6><Link to="/product-details">{this.props.category}</Link>(1 {this.props.category})</h6>
-                        </div>
-                        <div className="mid-2">
-                            <p><label>{this.props.category}</label><em className="item_price">{this.props.category}</em></p>
-                            <div className="block">
-                                <div className="starbox small ghosting"> </div>
-                            </div>
-                            <div className="clearfix" />
+                            <h6><Link to={`/category/${this.props.category.name}`}></Link>{this.props.category.name}</h6>
                         </div>
                     </div>
                 </div>

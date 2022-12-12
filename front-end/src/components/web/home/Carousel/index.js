@@ -7,7 +7,7 @@ import "slick-carousel/slick/slick-theme.css";
 export default class Carousel extends Component {
     render() {
         var settings = {
-            dots: false,
+            dots: true,
             infinite: true,
             autoplay: true,
             speed: 2000,
@@ -18,20 +18,30 @@ export default class Carousel extends Component {
         return (
             <Grid container >
                 <Grid item xs={12} sm={12} md={12} lg={12} xl={12} style={{ marginTop: '9rem' }}>
-                    <Slider {...settings}>
-                        <div>
-                            <img src="/images/figma.png" alt="supermarket" style={{
+                        <div className="pictures-container" style={{width: "100%", height: "513px"}}>
+                            <img src="/images/figma3.png" alt=" " className="img-responsive" style={{
                                 position: "absolute",
-                                width: "1920px",
-                                height: "477px",
-                                left: "0px",
-                                top: "150px",
+                                top: "133px",
+                                left: "0",
+                                width: "80%",
+                                height: "513px",
                             }}/>
-                            <img src="/images/figma2.png" alt="supermarket"/>
+                            <img src="/images/figma2.png" alt=" " className="img-responsive" style={{
+                                position: "absolute",
+                                top: "133px",
+                                left: "0",
+                                height: "513px",
+                            }}/>
+                            <img src="/images/figma.png" alt=" " className="img-responsive" style={{
+                                position: "absolute",
+                                top: "133px",
+                                right: "0",
+                                maxHeight: "513px",
+                            }}/>
                             <div className="bottom-left" style={{
                                 position: "absolute",
-                                top: "10rem",
-                                left: "10rem",
+                                top: "20rem",
+                                left: "8rem",
                                 fontFamily: "Quicksand",
                                 fontStyle: "normal",
                                 fontWeight: "700",
@@ -42,8 +52,8 @@ export default class Carousel extends Component {
                             }}>Don't miss our daily amazing deals.</div>
                             <div className="bottom-left" style={{
                                 position: "absolute",
-                                top: "20rem",
-                                left: "10rem",
+                                top: "30rem",
+                                left: "8rem",
                                 fontFamily: "Quicksand",
                                 fontStyle: "normal",
                                 fontWeight: "500",
@@ -53,7 +63,6 @@ export default class Carousel extends Component {
                                 color: "#838383",
                             }}>Save up to 60% off on your first order</div>
                         </div>
-                    </Slider>
                 </Grid>
 
             </Grid>

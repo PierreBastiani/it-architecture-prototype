@@ -1,1 +1,1 @@
-# it-architecture-POC
+# it-architecture-prototype

@@ -45,7 +45,7 @@ const Kitchenitem = (props) => {
                         {products.filter((product) => {
                             return (product.offer)
                         }).map((product, index) => (
-                            <ProductPreview state={this.props.state} index={index} product={product}/>
+                            <ProductPreview state={props.state} index={index} product={product}/>
                         ))}
                         <div className="clearfix" />
                     </div>
@@ -137,7 +137,7 @@ const Kitchenitem = (props) => {
                         </div>
                         <div className=" con-w3l">
                             {products.map((product, index) => (
-                                <ProductPreview state={this.props.state} index={index} product={product}/>
+                                <ProductPreview state={props.state} index={index} product={product}/>
                             ))}
                             <div className="clearfix" />
                         </div>

@@ -4,6 +4,7 @@
     "category": "Dairy",
     "thumbnail_url": "/images/of.png",
     "unit": "litre",
+    "offer": "1",
     "options": [
       {
         "price": 1.50,

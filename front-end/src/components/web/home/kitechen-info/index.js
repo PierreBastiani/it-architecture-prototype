@@ -5,6 +5,18 @@ import { connect } from 'react-redux';
 import { addToCart } from '../../../../actions/productActions';
 import products from "../../../../products.json";
 import ProductPreview from "../../product-preview";
+import CategoryPreview from "../../category-preview";
+
+// get list of categories from products list
+function categoriesList(products) {
+    let categories = [];
+    products.forEach(product => {
+        if (!categories.includes(product.category)) {
+            categories.push(product.category);
+        }
+    });
+    return categories;
+}
 
 const Kitchenitem = (props) => {
     return (
@@ -21,8 +33,10 @@ const Kitchenitem = (props) => {
 
                 <div className="tab-pane active text-style" id="tab1">
                     <div className=" con-w3l">
-                        {products.map((product, index) => (
-                            <ProductPreview index={index} product={product} offer={true}/>
+                        {products.filter((product) => {
+                            return (product.offer)
+                        }).map((product, index) => (
+                            <ProductPreview index={index} product={product}/>
                         ))}
                         <div className="clearfix" />
                     </div>
@@ -82,6 +96,25 @@ const Kitchenitem = (props) => {
                 </div>
                 {/*content*/}
 
+                <div className="categories" style={{"paddingBottom": "3rem"}}>
+                    <div className="container">
+                        <div className="spec ">
+                            <h3>Categories</h3>
+                            <div className="ser-t">
+                                <b />
+                                <span><i /></span>
+                                <b className="line" />
+                            </div>
+                        </div>
+                        <div className=" con-w3l">
+                            {categoriesList(products).map((category, index) => (
+                                <CategoryPreview index={index} product={category}/>
+                            ))}
+                            <div className="clearfix" />
+                        </div>
+                    </div>
+                </div>
+
                 {/*content*/}
                 <div className="product" style={{"paddingBottom": "3rem"}}>
                     <div className="container">
@@ -95,7 +128,7 @@ const Kitchenitem = (props) => {
                         </div>
                         <div className=" con-w3l">
                             {products.map((product, index) => (
-                                <ProductPreview index={index} product={product} offer={false}/>
+                                <ProductPreview index={index} product={product}/>
                             ))}
                             <div className="clearfix" />
                         </div>

@@ -39,7 +39,7 @@ export default class ProductPreview extends Component {
                 <div className="col-m">
                     <Link to="#" data-toggle="modal" data-target={`#myModal${this.props.index + 1}`} className="offer-img">
                         <img src={`${this.props.product.thumbnail_url}`} className="img-responsive" alt="" />
-                        {offerDiv(this.props.offer)}
+                        {offerDiv(this.props.product.offer)}
                     </Link>
                     <div className="mid-1">
                         <div className="women">

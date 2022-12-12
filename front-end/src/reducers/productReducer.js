@@ -35,6 +35,19 @@ const initialState = {
     }
 }
 
+/**
+
+  state:
+
+cart: total number of items in cart
+cartPrice: total price of items in cart
+products: object containing all the products
+products: {
+  name: name of the product
+}
+
+**/
+
 export default (state = initialState, action) => {
     let productSelected = "";
     switch (action.type) {

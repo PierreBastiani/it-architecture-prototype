@@ -8,9 +8,7 @@ import './cart.css';
 function Cart({ cartProps, productQuantity, clearProduct }) {
   let productsInCart = [];
   Object.keys(cartProps.products).forEach(function(item) {
-    if (cartProps.products[item].inCart) {
       productsInCart.push(cartProps.products[item]);
-    }
   });
   // console.log("cart number", cartProps)
   return (
@@ -45,18 +43,18 @@ function Cart({ cartProps, productQuantity, clearProduct }) {
                               <h5>{product.name}</h5>
                             </div>
                             <div className="clearfix"> </div>
-                            <div className="close2" onClick={() => clearProduct(product.tagName)}> <i className="fa fa-times" aria-hidden="true" /></div>
+                            <div className="close2" onClick={() => clearProduct(product.name)}> <i className="fa fa-times" aria-hidden="true" /></div>
                           </td>
-                          <td className="t-data">{product.price[0] + " - " + product.price[1]}</td>
+                          <td className="t-data">{product.price[0] + " - " + product.price[1]}€</td>
                           <td className="t-data"><div className="quantity">
                             <div className="quantity-select">
-                              <div className="entry value-minus" onClick={() => productQuantity('decrease', product.tagName)}>&nbsp;</div>
+                              <div className="entry value-minus" onClick={() => productQuantity('decrease', product.name)}>&nbsp;</div>
                               <div className="entry value"><span className="span-1">{product.numbers}</span></div>
-                              <div className="entry value-plus active" onClick={() => productQuantity('increase', product.tagName)}>&nbsp;</div>
+                              <div className="entry value-plus active" onClick={() => productQuantity('increase', product.name)}>&nbsp;</div>
                             </div>
                           </div>
                           </td>
-                          <td className="t-data t-w3l">{product.price[0] * product.numbers + " - " + product.price[1] * product.numbers}</td>
+                          <td className="t-data t-w3l">{product.price[0] * product.numbers + " - " + product.price[1] * product.numbers}€</td>
                         </tr>
                       );
                     })

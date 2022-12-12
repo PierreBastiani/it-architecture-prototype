@@ -32,6 +32,7 @@ export default (state = initialState, action) => {
       let price = get_price_range(action.payload);
       productSelected = state.products[action.payload] || {
         name: action.payload,
+        product: action.data,
         price: [price[0], price[1]],
         numbers: 0,
       };

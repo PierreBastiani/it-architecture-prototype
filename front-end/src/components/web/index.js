@@ -18,6 +18,7 @@ import Category from './category-mobile'
 import Cart from './cart';
 import Checkout from './checkout';
 import Singleproduct from './singleproduct';
+import Comparison from './comparison';
 export default class Main extends Component {
   render() {
       return (
@@ -40,6 +41,7 @@ export default class Main extends Component {
               <Route path='/categories' component={Category} />
               <Route path='/carts' component={Cart} />
               <Route path='/checkout' component={Checkout} />
+              <Route path='/comparison' component={Comparison} />
               <Route component={NotFound} />
             </Switch>
             <Footer />

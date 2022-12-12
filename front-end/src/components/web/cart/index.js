@@ -87,7 +87,7 @@ function Cart({ cartProps, productQuantity, clearProduct }) {
                   </div>
                   <div class="_22vQVX">You can save up to {cartProps.cartPrice[1] - cartProps.cartPrice[0]}€ on this order</div>
                 </div>
-                <Link to="/compare">
+                <Link to="/comparison">
                   <div className="process_checkout_bk">
                     <span>See comparison</span>
                   </div>

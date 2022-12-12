@@ -1,8 +1,27 @@
 [
   {
-    "name": "Milk",
+    "name": "1L Milk",
     "category": "Dairy",
-    "thumbnail_url": "",
+    "thumbnail_url": "/images/of.png",
+    "unit": "litre",
+    "offer": "1",
+    "options": [
+      {
+        "price": 1.50,
+        "supermarket": "Tesco",
+        "address": "123 High Street, Dublin"
+      },
+      {
+        "price": 1.50,
+        "supermarket": "Lidl",
+        "address": "11 High Street, Dublin"
+      }
+    ]
+  },
+  {
+    "name": "1L Light Milk",
+    "category": "Dairy",
+    "thumbnail_url": "/images/of.png",
     "unit": "litre",
     "options": [
       {
@@ -16,5 +35,312 @@
         "address": "11 High Street, Dublin"
       }
     ]
+  },
+  {
+    "name": "Slice Cheese",
+    "category": "Dairy",
+    "thumbnail_url": "/images/of.png",
+    "unit": "Kg",
+    "options": [
+      {
+        "price": 1.50,
+        "supermarket": "Tesco",
+        "address": "123 High Street, Dublin"
+      },
+      {
+        "price": 1.50,
+        "supermarket": "Lidl",
+        "address": "11 High Street, Dublin"
+      }
+    ]
+  },
+  {
+    "name": "Slice Ham",
+    "category": "Butcher",
+    "thumbnail_url": "/images/of.png",
+    "unit": "Kg",
+    "options": [
+      {
+        "price": 3.50,
+        "supermarket": "Tesco",
+        "address": "123 High Street, Dublin"
+      },
+      {
+        "price": 1.50,
+        "supermarket": "Lidl",
+        "address": "11 High Street, Dublin"
+      }
+    ]
+  },
+  {
+    "name": "Cake",
+    "category": "Bakery",
+    "thumbnail_url": "/images/of.png",
+    "unit": "Kg",
+    "options": [
+      {
+        "price": 3.50,
+        "supermarket": "Tesco",
+        "address": "123 High Street, Dublin"
+      },
+      {
+        "price": 2.50,
+        "supermarket": "Lidl",
+        "address": "11 High Street, Dublin"
+      }
+    ]
+  },
+  {
+    "name": "7 bags of Crisps",
+    "category": "Snack",
+    "thumbnail_url": "/images/of.png",
+    "unit": "bags",
+    "options": [
+      {
+        "price": 2.50,
+        "supermarket": "Tesco",
+        "address": "123 High Street, Dublin"
+      },
+      {
+        "price": 1.70,
+        "supermarket": "Lidl",
+        "address": "11 High Street, Dublin"
+      }
+    ]
+  },
+  {
+    "name": "Dark Chocolate",
+    "category": "Snack",
+    "thumbnail_url": "/images/of.png",
+    "unit": "Kg",
+    "options": [
+      {
+        "price": 1.00,
+        "supermarket": "Tesco",
+        "address": "123 High Street, Dublin"
+      },
+      {
+        "price": 1.00,
+        "supermarket": "Lidl",
+        "address": "11 High Street, Dublin"
+      }
+    ]
+  },
+  {
+    "name": "White Chocolate",
+    "category": "Snack",
+    "thumbnail_url": "/images/of.png",
+    "unit": "Kg",
+    "options": [
+      {
+        "price": 1.50,
+        "supermarket": "Tesco",
+        "address": "123 High Street, Dublin"
+      },
+      {
+        "price": 1.30,
+        "supermarket": "Lidl",
+        "address": "11 High Street, Dublin"
+      }
+    ]
+  },
+  {
+    "name": "1L Bottle of Water",
+    "category": "Drinks",
+    "thumbnail_url": "/images/of.png",
+    "unit": "litre",
+    "options": [
+      {
+        "price": 1.50,
+        "supermarket": "Tesco",
+        "address": "123 High Street, Dublin"
+      },
+      {
+        "price": 1.50,
+        "supermarket": "Lidl",
+        "address": "11 High Street, Dublin"
+      }
+    ]
+  },
+  {
+    "name": "0.5L Bottle of Water",
+    "category": "Drinks",
+    "thumbnail_url": "/images/of.png",
+    "unit": "litre",
+    "options": [
+      {
+        "price": 1.50,
+        "supermarket": "Tesco",
+        "address": "123 High Street, Dublin"
+      },
+      {
+        "price": 1.50,
+        "supermarket": "Lidl",
+        "address": "11 High Street, Dublin"
+      }
+    ]
+  },
+  {
+    "name": "1Kg Tomato",
+    "category": "Vegetable",
+    "thumbnail_url": "/images/of.png",
+    "unit": "Kg",
+    "options": [
+      {
+        "price": 1.00,
+        "supermarket": "Tesco",
+        "address": "123 High Street, Dublin"
+      },
+      {
+        "price": 0.5,
+        "supermarket": "Lidl",
+        "address": "11 High Street, Dublin"
+      }
+    ]
+  },
+  {
+    "name": "2Kg Carrot",
+    "category": "Vegetable",
+    "thumbnail_url": "/images/of.png",
+    "unit": "Kg",
+    "options": [
+      {
+        "price": 3.00,
+        "supermarket": "Tesco",
+        "address": "123 High Street, Dublin"
+      },
+      {
+        "price": 1.50,
+        "supermarket": "Lidl",
+        "address": "11 High Street, Dublin"
+      }
+    ]
+  },
+  {
+    "name": "Lettuce",
+    "category": "Vegetable",
+    "thumbnail_url": "/images/of.png",
+    "unit": "Kg",
+    "options": [
+      {
+        "price": 1.00,
+        "supermarket": "Tesco",
+        "address": "123 High Street, Dublin"
+      },
+      {
+        "price": 0.90,
+        "supermarket": "Lidl",
+        "address": "11 High Street, Dublin"
+      }
+    ]
+  },
+  {
+    "name": "1kg of Pear",
+    "category": "Fruit",
+    "thumbnail_url": "/images/of.png",
+    "unit": "Kg",
+    "options": [
+      {
+        "price": 2.00,
+        "supermarket": "Tesco",
+        "address": "123 High Street, Dublin"
+      },
+      {
+        "price": 1.90,
+        "supermarket": "Lidl",
+        "address": "11 High Street, Dublin"
+      }
+    ]
+  },
+  {
+    "name": "6 Bottles Coca Cola",
+    "category": "Drinks",
+    "thumbnail_url": "/images/of.png",
+    "unit": "litre",
+    "options": [
+      {
+        "price": 8.00,
+        "supermarket": "Tesco",
+        "address": "123 High Street, Dublin"
+      },
+      {
+        "price": 6.90,
+        "supermarket": "Lidl",
+        "address": "11 High Street, Dublin"
+      }
+    ]
+  },
+  {
+    "name": "6 Bottles Coca Cola",
+    "category": "Drinks",
+    "thumbnail_url": "/images/of.png",
+    "unit": "litre",
+    "options": [
+      {
+        "price": 8.00,
+        "supermarket": "Tesco",
+        "address": "123 High Street, Dublin"
+      },
+      {
+        "price": 6.90,
+        "supermarket": "Lidl",
+        "address": "11 High Street, Dublin"
+      }
+    ]
+  },
+  {
+    "name": "1L Orange Juices",
+    "category": "Drinks",
+    "thumbnail_url": "/images/of.png",
+    "unit": "litre",
+    "options": [
+      {
+        "price": 0.90,
+        "supermarket": "Tesco",
+        "address": "123 High Street, Dublin"
+      },
+      {
+        "price": 1.10,
+        "supermarket": "Lidl",
+        "address": "11 High Street, Dublin"
+      }
+    ]
+  },
+  {
+    "name": "1L Apple Juices",
+    "category": "Drinks",
+    "thumbnail_url": "/images/of.png",
+    "unit": "litre",
+    "options": [
+      {
+        "price": 0.90,
+        "supermarket": "Tesco",
+        "address": "123 High Street, Dublin"
+      },
+      {
+        "price": 1.10,
+        "supermarket": "Lidl",
+        "address": "11 High Street, Dublin"
+      }
+    ]
+  },
+  {
+    "name": "8x Strawberry Yogurt",
+    "category": "Dairy",
+    "thumbnail_url": "/images/of.png",
+    "unit": "litre",
+    "options": [
+      {
+        "price": 0.90,
+        "supermarket": "Tesco",
+        "address": "123 High Street, Dublin"
+      },
+      {
+        "price": 1.10,
+        "supermarket": "Lidl",
+        "address": "11 High Street, Dublin"
+      }
+    ]
   }
+
 ]

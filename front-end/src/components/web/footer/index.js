@@ -8,7 +8,6 @@ export default class Footer extends Component {
                 <div className="container">
                     <div className="col-md-3 footer-grid">
                         <h3>About Us</h3>
-                        <p>This is <Link to="http://abhinashkumar.com/"> Abhinash kumar</Link>. I am full stack developer . I am working on Nodejs,sequelize(ORM),Express, mongoDB,& Reactjs since 2years .so, if you want make any kind of website/software please freely contact with us.</p>
                     </div>
                     <div className="col-md-3 footer-grid ">
                         <h3>Menu</h3>
@@ -21,8 +20,13 @@ export default class Footer extends Component {
                         </ul>
                     </div>
                     <div className="col-md-3 footer-grid ">
-                        <h3>Customer Services</h3>
+                        <h3>Useful links</h3>
                         <ul>
+                            About Us
+                            Contact
+                            Hot deals
+                            Promotions
+                            New products
                             <li><Link to="/desclaimer">Disclaimer</Link></li>
                             <li><Link to="/faq">Faqs</Link></li>
                             <li><Link to="/privacy-and-policy">Privacy & Policy</Link></li>
@@ -30,17 +34,18 @@ export default class Footer extends Component {
                         </ul>
                     </div>
                     <div className="col-md-3 footer-grid">
-                        <h3>My Account</h3>
+                        <h3>Help Center</h3>
                         <ul>
-                            <li><Link to="/login">Login</Link></li>
-                            <li><Link to="/register">Register</Link></li>
-                            {/* <li><Link to="wishlist">Wishlist</Link></li> */}
+                            <li><Link to="/Payments">Payments</Link></li>
+                            <li><Link to="/Refund">Refund</Link></li>
+                            <li><Link to="/Checkout">Checkout</Link></li>
+                            <li><Link to="/Shipping">Shipping</Link></li>
+                            <li><Link to="/Q&A">Q&A</Link></li>
+                            <li><Link to="/Privacy Policy">Privacy Policy</Link></li>
                         </ul>
                     </div>
                     <div className="clearfix" />
                     <div className="footer-bottom">
-                        <h2><Link to="/"><b>T<br />H<br />E</b>Big Store<span>The Best Supermarket</span></Link></h2>
-                        <p className="fo-para">This is <Link to="http://abhinashkumar.com/"> Abhinash kumar</Link>. I am full stack developer . I am working on Nodejs,sequelize(ORM),Express, mongoDB,& Reactjs since 2years .so, if you want make any kind of website/software please freely contact with us.</p>
                         <ul className="social-fo">
                             <li><Link to="#" className=" face"><i className="fa fa-facebook" aria-hidden="true" /></Link></li>
                             <li><Link to="#" className=" twi"><i className="fa fa-twitter" aria-hidden="true" /></Link></li>
@@ -49,13 +54,14 @@ export default class Footer extends Component {
                         </ul>
                         <div className=" address">
                             <div className="col-md-4 fo-grid1">
-                                <p><i className="fa fa-home" aria-hidden="true" />New Delhi , Saket, India.</p>
+                                <p><i className="fa fa-home" aria-hidden="true" />Dublin City University, Collins Ave Ext,
+                                    Whitehall, Dublin 9</p>
                             </div>
                             <div className="col-md-4 fo-grid1">
-                                <p><i className="fa fa-phone" aria-hidden="true" />+91 8375893352</p>
+                                <p><i className="fa fa-phone" aria-hidden="true" />+256 17005000</p>
                             </div>
                             <div className="col-md-4 fo-grid1">
-                                <p><Link to="/gmail.com"><i className="fa fa-envelope-o" aria-hidden="true" />pandit.bechu@gmail.com</Link></p>
+                                <p><Link to="/gmail.com"><i className="fa fa-envelope-o" aria-hidden="true" />groceyish@contact.com</Link></p>
                             </div>
                             <div className="clearfix" />
                         </div>

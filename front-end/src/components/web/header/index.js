@@ -40,7 +40,7 @@ class Header extends Component {
                             <Grid container>
                                 <Grid item md={3} lg={2} xl={2}>
                                     <div className="logo">
-                                        <h1><Link to="#"><b>T<br />H<br />E</b>Big Store<span>The Best Supermarket</span></Link></h1>
+                                        <img src="/images/figma4.png" alt="logo" />
                                     </div>
                                 </Grid>
                                 <Grid item md={6} lg={7} xl={6}>

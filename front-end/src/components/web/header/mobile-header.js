@@ -14,7 +14,7 @@ class Mobileheader extends Component {
                     </Grid>
                     <Grid item xs={7} sm={7} md={7}>
                         <div className="logo">
-                            <h5><b>T<br />H<br />E</b><span>Big Store</span></h5>
+                            <img src="/images/figma4.png" alt="logo" />
                         </div>
                     </Grid>
                     <Grid item xs={3} sm={3} md={3} style={{ textAlign:'-webkit-center'}}>

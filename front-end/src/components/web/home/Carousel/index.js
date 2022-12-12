@@ -16,7 +16,7 @@ export default class Carousel extends Component {
             slidesToScroll: 1
         };
         return (
-            <Grid container >
+            <Grid container>
                 <Grid item xs={12} sm={12} md={12} lg={12} xl={12} style={{ marginTop: '9rem' }}>
                         <div className="pictures-container" style={{width: "100%", height: "513px"}}>
                             <img src="/images/figma3.png" alt=" " className="img-responsive" style={{

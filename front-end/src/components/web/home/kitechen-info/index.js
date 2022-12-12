@@ -154,4 +154,4 @@ const mapStateToProps = state => ({
   mystate: state
 })
 
-export default connect(mapStateToProps, { addToCart })(Kitchenitem);
+export default connect(null, { addToCart })(Kitchenitem);

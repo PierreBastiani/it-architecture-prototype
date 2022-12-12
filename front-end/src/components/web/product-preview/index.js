@@ -55,7 +55,7 @@ export default class ProductPreview extends Component {
               <div className="clearfix" />
             </div>
             <div className="add">
-              <button className="btn btn-danger my-cart-btn my-cart-b" onClick={() => this.props.state.addToCart(this.props.product.name)}>Add to Cart</button>
+              <button className="btn btn-danger my-cart-btn my-cart-b" onClick={() => this.props.props.addToCart(this.props.product.name)}>Add to Cart</button>
             </div>
           </div>
         </div>

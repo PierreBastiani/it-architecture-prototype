@@ -547,7 +547,7 @@ span.fa.fa-shopping-cart.my-cart-icon {
     font-size: 12px;
     width: 50%;
     color: #fff;
-    background: none;
+    background: #039445;
     border: 1px solid #fab005;
 }
 .btn_login .login:hover {
@@ -583,6 +583,10 @@ span.fa.fa-shopping-cart.my-cart-icon {
     background: #039445;
     border: 2px solid #039445;
     outline: none !important;
+}
+
+.cart .cart_item {
+    background: #039445;
 }
 .cart_item span{
     color: #F2F3F3;

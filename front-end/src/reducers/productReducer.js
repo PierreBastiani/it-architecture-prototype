@@ -33,6 +33,7 @@ export default (state = initialState, action) => {
         price: [price[0], price[1]],
         numbers: 0,
       };
+      console.log(productSelected);
       productSelected.numbers += 1;
 
       return {

@@ -1,421 +1,421 @@
 [
-    {
-      "name": "1L Milk",
-      "category": "Dairy",
-      "thumbnail_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tesco.com%2Fgroceries%2Fen-GB%2Fproducts%2F257750530&psig=AOvVaw3M5aozqy018-4eGT1tQKVf&ust=1670941771932000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjZ4qel9PsCFQAAAAAdAAAAABAR",
-      "unit": "L",
-      "offer": "true",
-      "options": [
-        {
-          "price": 1.50,
-          "supermarket": "Tesco",
-          "address": "123 High Street, Dublin"
-        },
-        {
-          "price": 1.48,
-          "supermarket": "Lidl",
-          "address": "11 High Street, Dublin"
-        },
-        {
-            "price": 1.47,
-            "supermarket": "Spar",
-            "address": "11 Low Street, Dublin"
-          }
-      ]
-    },
-    {
-        "name": "1L Light Milk",
-        "category": "Dairy",
-        "thumbnail_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tesco.com%2Fgroceries%2Fen-GB%2Fproducts%2F257750530&psig=AOvVaw3M5aozqy018-4eGT1tQKVf&ust=1670941771932000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjZ4qel9PsCFQAAAAAdAAAAABAR",
-        "unit": "L",
-        "options": [
-          {
-            "price": 1.50,
-            "supermarket": "Tesco",
-            "address": "123 High Street, Dublin"
-          },
-          {
-            "price": 1.48,
-            "supermarket": "Lidl",
-            "address": "11 High Street, Dublin"
-          },
-          {
-            "price": 1.47,
-            "supermarket": "Spar",
-            "address": "11 Low Street, Dublin"
-          }
-        ]
-      },
-    {
-        "name": "Slice Cheese",
-        "category": "Dairy",
-        "thumbnail_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sargento.com%2Four-cheese%2Fsliced-cheese%2Fsargento-sliced-colby-jack-natural-cheese%2F&psig=AOvVaw2dSM_aVjEfnw-onsoYwqwp&ust=1670941866847000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLDq1dSl9PsCFQAAAAAdAAAAABAE",
-        "unit": "Kg",
-        "options": [
-          {
-            "price": 1.50,
-            "supermarket": "Tesco",
-            "address": "123 High Street, Dublin"
-          },
-          {
-            "price": 1.48,
-            "supermarket": "Lidl",
-            "address": "11 High Street, Dublin"
-          },
-          {
-            "price": 1.47,
-            "supermarket": "Spar",
-            "address": "11 Low Street, Dublin"
-          }
-        ]
+  {
+    "name": "1L Milk",
+    "category": "Dairy",
+    "thumbnail_url": "https://www.trackingfresh.com/wp-content/uploads/2022/06/Website-Thumbnail-500-%C3%97-500-px-3-1.png",
+    "unit": "L",
+    "offer": "1",
+    "options": [
+      {
+        "price": 1.50,
+        "supermarket": "Tesco",
+        "address": "123 High Street, Dublin"
       },
       {
-        "name": "Slice Ham",
-        "category": "Butcher",
-        "thumbnail_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.jonesdairyfarm.com%2Fproducts%2Fham%2Fham-slices&psig=AOvVaw3hrHz_2kEYs3jAYxdWtklH&ust=1670941896045000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNjNzOKl9PsCFQAAAAAdAAAAABAE",
-        "unit": "Kg",
-        "options": [
-          {
-            "price": 3.50,
-            "supermarket": "Tesco",
-            "address": "123 High Street, Dublin"
-          },
-          {
-            "price": 3.48,
-            "supermarket": "Lidl",
-            "address": "11 High Street, Dublin"
-          },
-          {
-            "price": 3.48,
-            "supermarket": "Spar",
-            "address": "11 Low Street, Dublin"
-          }
-        ]
+        "price": 1.48,
+        "supermarket": "Lidl",
+        "address": "11 High Street, Dublin"
       },
       {
-        "name": "Cake",
-        "category": "Bakery",
-        "thumbnail_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FDuncan-Hines-Signature-French-Vanilla%2Fdp%2FB073H8DJSM&psig=AOvVaw1kcQlgQKMEFGwOChhaqqFi&ust=1670942107783000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCICV68em9PsCFQAAAAAdAAAAABAE",
-        "unit": "Kg",
-        "options": [
-          {
-            "price": 3.50,
-            "supermarket": "Tesco",
-            "address": "123 High Street, Dublin"
-          },
-          {
-            "price": 2.50,
-            "supermarket": "Lidl",
-            "address": "11 High Street, Dublin"
-          },
-          {
-            "price": 3.00,
-            "supermarket": "Spar",
-            "address": "11 Low Street, Dublin"
-          }
-        ]
-      },
-      {
-        "name": "7 bags of Crisps",
-        "category": "Snack",
-        "thumbnail_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fdirectdistribution.fr%2Ffr%2Fproduct%2Ftayto-cheese-onion-crisps%2F&psig=AOvVaw3kQLpzc5USy_stlzFTrQ9H&ust=1670942139414000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIDJgNem9PsCFQAAAAAdAAAAABAE",
-        "unit": "Units",
-        "options": [
-          {
-            "price": 1.90,
-            "supermarket": "Tesco",
-            "address": "123 High Street, Dublin"
-          },
-          {
-            "price": 1.70,
-            "supermarket": "Lidl",
-            "address": "11 High Street, Dublin"
-          },
-          {
-            "price": 1.50,
-            "supermarket": "Spar",
-            "address": "11 Low Street, Dublin"
-          }
-        ]
-      },
-      {
-        "name": "Dark Chocolate",
-        "category": "Snack",
-        "thumbnail_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.auchan.fr%2Fcote-d-or-l-original-tablette-de-chocolat-noir%2Fpr-C1248200&psig=AOvVaw2CwVSiPv4iTf8LGECMenMw&ust=1670942301924000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjvwqSn9PsCFQAAAAAdAAAAABAE",
-        "unit": "Kg",
-        "options": [
-          {
-            "price": 1.50,
-            "supermarket": "Tesco",
-            "address": "123 High Street, Dublin"
-          },
-          {
-            "price": 1.70,
-            "supermarket": "Lidl",
-            "address": "11 High Street, Dublin"
-          },
-          {
-            "price": 1.80,
-            "supermarket": "Spar",
-            "address": "11 Low Street, Dublin"
-          }
-        ]
-      },
-      {
-        "name": "White Chocolate",
-        "category": "Snack",
-        "thumbnail_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.auchan.fr%2Fgalak-tablette-de-chocolat-blanc%2Fpr-C1257939&psig=AOvVaw2Q4ENxC3dGi3XXW4x5xip6&ust=1670942336891000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKjtlbWn9PsCFQAAAAAdAAAAABAE",
-        "unit": "Kg",
-        "offer": "true",
-        "options": [
-          {
-            "price": 1.50,
-            "supermarket": "Tesco",
-            "address": "123 High Street, Dublin"
-          },
-          {
-            "price": 1.70,
-            "supermarket": "Lidl",
-            "address": "11 High Street, Dublin"
-          },
-          {
-            "price": 1.80,
-            "supermarket": "Spar",
-            "address": "11 Low Street, Dublin"
-          }
-        ]
-      },
-      {
-        "name": "1L Bottle of Water",
-        "category": "Drinks",
-        "thumbnail_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tesco.com%2Fgroceries%2Fen-GB%2Fproducts%2F272308641&psig=AOvVaw2tcJTAT2NFu51O5NxqXFW2&ust=1670942379851000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOi308mn9PsCFQAAAAAdAAAAABAR",
-        "unit": "L",
-        "options": [
-          {
-            "price": 1.50,
-            "supermarket": "Tesco",
-            "address": "123 High Street, Dublin"
-          },
-          {
-            "price": 1.40,
-            "supermarket": "Lidl",
-            "address": "11 High Street, Dublin"
-          },
-          {
-            "price": 1.48,
-            "supermarket": "Spar",
-            "address": "11 Low Street, Dublin"
-          }
-        ]
-      },
-      {
-        "name": "0.5L Bottle of Water",
-        "category": "Drinks",
-        "thumbnail_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.buxtonwater.co.uk%2Fbottled-water&psig=AOvVaw2tcJTAT2NFu51O5NxqXFW2&ust=1670942379851000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOi308mn9PsCFQAAAAAdAAAAABAE",
-        "unit": "L",
-        "options": [
-          {
-            "price": 0.90,
-            "supermarket": "Tesco",
-            "address": "123 High Street, Dublin"
-          },
-          {
-            "price": 1.00,
-            "supermarket": "Lidl",
-            "address": "11 High Street, Dublin"
-          },
-          {
-            "price": 1.10,
-            "supermarket": "Spar",
-            "address": "11 Low Street, Dublin"
-          }
-        ]
-      },
-      {
-        "name": "1Kg Tomato",
-        "category": "Vegetable",
-        "thumbnail_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.collinsdictionary.com%2Fdictionary%2Fenglish%2Ftomato&psig=AOvVaw19up1esJwtEOsvHiOVOCRD&ust=1670942445081000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjD1ein9PsCFQAAAAAdAAAAABAE",
-        "unit": "Kg",
-        "options": [
-          {
-            "price": 5.00,
-            "supermarket": "Tesco",
-            "address": "123 High Street, Dublin"
-          },
-          {
-            "price": 4.90,
-            "supermarket": "Lidl",
-            "address": "11 High Street, Dublin"
-          },
-          {
-            "price": 4.93,
-            "supermarket": "Spar",
-            "address": "11 Low Street, Dublin"
-          }
-        ]
-      },
-      {
-        "name": "2Kg Carrot",
-        "category": "Vegetable",
-        "thumbnail_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dinneratthezoo.com%2Fhoney-roasted-carrots%2F&psig=AOvVaw1gUdXX-tDhumIpg1D3KJLo&ust=1670942475222000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKibkfen9PsCFQAAAAAdAAAAABAJ",
-        "unit": "Kg",
-        "offer": "true",
-        "options": [
-          {
-            "price": 3.00,
-            "supermarket": "Tesco",
-            "address": "123 High Street, Dublin"
-          },
-          {
-            "price": 3.50,
-            "supermarket": "Lidl",
-            "address": "11 High Street, Dublin"
-          },
-          {
-            "price": 3.10,
-            "supermarket": "Spar",
-            "address": "11 Low Street, Dublin"
-          }
-        ]
-      },
-      {
-        "name": "Lettuce",
-        "category": "Vegetable",
-        "thumbnail_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.newyorker.com%2Fculture%2Fkitchen-notes%2Fits-time-to-admit-that-iceberg-is-a-superior-lettuce&psig=AOvVaw0vSZCQ7JNIf7QD1cqj2V0Z&ust=1670942530914000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjv2JGo9PsCFQAAAAAdAAAAABAE",
-        "unit": "Kg",
-        "options": [
-          {
-            "price": 2.80,
-            "supermarket": "Tesco",
-            "address": "123 High Street, Dublin"
-          },
-          {
-            "price": 2.20,
-            "supermarket": "Lidl",
-            "address": "11 High Street, Dublin"
-          },
-          {
-            "price": 2.60,
-            "supermarket": "Spar",
-            "address": "11 Low Street, Dublin"
-          }
-        ]
-      },
-      {
-        "name": "1kg of Pear",
-        "category": "Fruit",
-        "thumbnail_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cooking-chef.fr%2Fespace-recettes%2Fdesserts-entremets-gateaux%2Fsorbet-poire&psig=AOvVaw2v7Ps-klQk7NV3qxyit371&ust=1670942557476000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKCRuZ6o9PsCFQAAAAAdAAAAABAE",
-        "unit": "Kg",
-        "offer": "true",
-        "options": [
-          {
-            "price": 2.00,
-            "supermarket": "Tesco",
-            "address": "123 High Street, Dublin"
-          },
-          {
-            "price": 1.90,
-            "supermarket": "Lidl",
-            "address": "11 High Street, Dublin"
-          },
-          {
-            "price": 1.950,
-            "supermarket": "Spar",
-            "address": "11 Low Street, Dublin"
-          }
-        ]
-      },
-      {
-        "name": "6 Bottles Coca Cola",
-        "category": "Drinks",
-        "thumbnail_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.carrefour.fr%2Fp%2Fsoda-coca-cola-5000112609622&psig=AOvVaw0nOdXRgQOHgxa6zJK7E5q0&ust=1670942587486000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjK7Kyo9PsCFQAAAAAdAAAAABAE",
-        "unit": "L",
-        "options": [
-          {
-            "price": 8.00,
-            "supermarket": "Tesco",
-            "address": "123 High Street, Dublin"
-          },
-          {
-            "price": 7.90,
-            "supermarket": "Lidl",
-            "address": "11 High Street, Dublin"
-          },
-          {
-            "price": 7.40,
-            "supermarket": "Spar",
-            "address": "11 Low Street, Dublin"
-          }
-        ]
-      },
-      {
-        "name": "1L Orange Juices",
-        "category": "Drinks",
-        "thumbnail_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vitamont.com%2Fen%2Fproduct%2Fthe-juice-bar-vitamont%2Fmini-and-maxi-size%2F1-liter%2Fpure-organic-orange-juice-with-pulp%2F&psig=AOvVaw1AyWryv2jS86gskem8UBJv&ust=1670942620290000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOiu97uo9PsCFQAAAAAdAAAAABAE",
-        "unit": "L",
-        "options": [
-          {
-            "price": 1.10,
-            "supermarket": "Tesco",
-            "address": "123 High Street, Dublin"
-          },
-          {
-            "price": 1.10,
-            "supermarket": "Lidl",
-            "address": "11 High Street, Dublin"
-          },
-          {
-            "price": 1.20,
-            "supermarket": "Spar",
-            "address": "11 Low Street, Dublin"
-          }
-        ]
-      },
-      {
-        "name": "1L Apple Juices",
-        "category": "Drinks",
-        "thumbnail_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fus.coca-cola.com%2Fdirect%2Fminute-maid-apple-juice-bottles-12-fl-oz-14-pack&psig=AOvVaw066yG2er5J3QTUkzhCIOD4&ust=1670942640713000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjKhMao9PsCFQAAAAAdAAAAABAJ",
-        "unit": "L",
-        "options": [
-          {
-            "price": 1.10,
-            "supermarket": "Tesco",
-            "address": "123 High Street, Dublin"
-          },
-          {
-            "price": 1.10,
-            "supermarket": "Lidl",
-            "address": "11 High Street, Dublin"
-          },
-          {
-            "price": 1.20,
-            "supermarket": "Spar",
-            "address": "11 Low Street, Dublin"
-          }
-        ]
-      },
-      {
-        "name": "8x Strawberry Yogurt",
-        "category": "Dairy",
-        "thumbnail_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.target.com%2Fp%2Fyoplait-original-strawberry-yogurt-6oz%2F-%2FA-13016477&psig=AOvVaw3tg6cvR0wZhYupfrYcxOW0&ust=1670942675163000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjxydao9PsCFQAAAAAdAAAAABAE",
-        "unit": "L",
-        "options": [
-          {
-            "price": 3.90,
-            "supermarket": "Tesco",
-            "address": "123 High Street, Dublin"
-          },
-          {
-            "price": 3.70,
-            "supermarket": "Lidl",
-            "address": "11 High Street, Dublin"
-          },
-          {
-            "price": 3.90,
-            "supermarket": "Spar",
-            "address": "11 Low Street, Dublin"
-          }
-        ]
+        "price": 1.47,
+        "supermarket": "Spar",
+        "address": "11 Low Street, Dublin"
       }
+    ]
+  },
+  {
+    "name": "1L Light Milk",
+    "category": "Dairy",
+    "thumbnail_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tesco.com%2Fgroceries%2Fen-GB%2Fproducts%2F257750530&psig=AOvVaw3M5aozqy018-4eGT1tQKVf&ust=1670941771932000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjZ4qel9PsCFQAAAAAdAAAAABAR",
+    "unit": "L",
+    "options": [
+      {
+        "price": 1.50,
+        "supermarket": "Tesco",
+        "address": "123 High Street, Dublin"
+      },
+      {
+        "price": 1.48,
+        "supermarket": "Lidl",
+        "address": "11 High Street, Dublin"
+      },
+      {
+        "price": 1.47,
+        "supermarket": "Spar",
+        "address": "11 Low Street, Dublin"
+      }
+    ]
+  },
+  {
+    "name": "Slice Cheese",
+    "category": "Dairy",
+    "thumbnail_url": "https://www.boxedmarket.com/nkz/gifs/60063526.jpg",
+    "unit": "Kg",
+    "offer": "1",
+    "options": [
+      {
+        "price": 1.50,
+        "supermarket": "Tesco",
+        "address": "123 High Street, Dublin"
+      },
+      {
+        "price": 1.48,
+        "supermarket": "Lidl",
+        "address": "11 High Street, Dublin"
+      },
+      {
+        "price": 1.47,
+        "supermarket": "Spar",
+        "address": "11 Low Street, Dublin"
+      }
+    ]
+  },
+  {
+    "name": "Slice Ham",
+    "category": "Butcher",
+    "thumbnail_url": "https://az810478.vo.msecnd.net/media/images/default-source/default-album/ham-slices-(554x429).png?sfvrsn=0",
+    "unit": "Kg",
+    "options": [
+      {
+        "price": 3.50,
+        "supermarket": "Tesco",
+        "address": "123 High Street, Dublin"
+      },
+      {
+        "price": 3.48,
+        "supermarket": "Lidl",
+        "address": "11 High Street, Dublin"
+      },
+      {
+        "price": 3.48,
+        "supermarket": "Spar",
+        "address": "11 Low Street, Dublin"
+      }
+    ]
+  },
+  {
+    "name": "Cake",
+    "category": "Bakery",
+    "thumbnail_url": "https://fr.openfoodfacts.org/images/products/318/767/000/0312/front_fr.6.full.jpg",
+    "unit": "Kg",
+    "options": [
+      {
+        "price": 3.50,
+        "supermarket": "Tesco",
+        "address": "123 High Street, Dublin"
+      },
+      {
+        "price": 2.50,
+        "supermarket": "Lidl",
+        "address": "11 High Street, Dublin"
+      },
+      {
+        "price": 3.00,
+        "supermarket": "Spar",
+        "address": "11 Low Street, Dublin"
+      }
+    ]
+  },
+  {
+    "name": "7 bags of Crisps",
+    "category": "Snack",
+    "thumbnail_url": "https://directdistribution.fr/wp-content/uploads/2021/07/TAYTO-CO-45g-resized-e1636992300670.jpg",
+    "unit": "Units",
+    "options": [
+      {
+        "price": 1.90,
+        "supermarket": "Tesco",
+        "address": "123 High Street, Dublin"
+      },
+      {
+        "price": 1.70,
+        "supermarket": "Lidl",
+        "address": "11 High Street, Dublin"
+      },
+      {
+        "price": 1.50,
+        "supermarket": "Spar",
+        "address": "11 Low Street, Dublin"
+      }
+    ]
+  },
+  {
+    "name": "Dark Chocolate",
+    "category": "Snack",
+    "thumbnail_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.auchan.fr%2Fcote-d-or-l-original-tablette-de-chocolat-noir%2Fpr-C1248200&psig=AOvVaw2CwVSiPv4iTf8LGECMenMw&ust=1670942301924000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjvwqSn9PsCFQAAAAAdAAAAABAE",
+    "unit": "Kg",
+    "options": [
+      {
+        "price": 1.50,
+        "supermarket": "Tesco",
+        "address": "123 High Street, Dublin"
+      },
+      {
+        "price": 1.70,
+        "supermarket": "Lidl",
+        "address": "11 High Street, Dublin"
+      },
+      {
+        "price": 1.80,
+        "supermarket": "Spar",
+        "address": "11 Low Street, Dublin"
+      }
+    ]
+  },
+  {
+    "name": "White Chocolate",
+    "category": "Snack",
+    "thumbnail_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.auchan.fr%2Fgalak-tablette-de-chocolat-blanc%2Fpr-C1257939&psig=AOvVaw2Q4ENxC3dGi3XXW4x5xip6&ust=1670942336891000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKjtlbWn9PsCFQAAAAAdAAAAABAE",
+    "unit": "Kg",
+    "offer": "1",
+    "options": [
+      {
+        "price": 1.50,
+        "supermarket": "Tesco",
+        "address": "123 High Street, Dublin"
+      },
+      {
+        "price": 1.70,
+        "supermarket": "Lidl",
+        "address": "11 High Street, Dublin"
+      },
+      {
+        "price": 1.80,
+        "supermarket": "Spar",
+        "address": "11 Low Street, Dublin"
+      }
+    ]
+  },
+  {
+    "name": "1L Bottle of Water",
+    "category": "Drinks",
+    "thumbnail_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tesco.com%2Fgroceries%2Fen-GB%2Fproducts%2F272308641&psig=AOvVaw2tcJTAT2NFu51O5NxqXFW2&ust=1670942379851000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOi308mn9PsCFQAAAAAdAAAAABAR",
+    "unit": "L",
+    "options": [
+      {
+        "price": 1.50,
+        "supermarket": "Tesco",
+        "address": "123 High Street, Dublin"
+      },
+      {
+        "price": 1.40,
+        "supermarket": "Lidl",
+        "address": "11 High Street, Dublin"
+      },
+      {
+        "price": 1.48,
+        "supermarket": "Spar",
+        "address": "11 Low Street, Dublin"
+      }
+    ]
+  },
+  {
+    "name": "0.5L Bottle of Water",
+    "category": "Drinks",
+    "thumbnail_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.buxtonwater.co.uk%2Fbottled-water&psig=AOvVaw2tcJTAT2NFu51O5NxqXFW2&ust=1670942379851000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOi308mn9PsCFQAAAAAdAAAAABAE",
+    "unit": "L",
+    "options": [
+      {
+        "price": 0.90,
+        "supermarket": "Tesco",
+        "address": "123 High Street, Dublin"
+      },
+      {
+        "price": 1.00,
+        "supermarket": "Lidl",
+        "address": "11 High Street, Dublin"
+      },
+      {
+        "price": 1.10,
+        "supermarket": "Spar",
+        "address": "11 Low Street, Dublin"
+      }
+    ]
+  },
+  {
+    "name": "1Kg Tomato",
+    "category": "Vegetable",
+    "thumbnail_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.collinsdictionary.com%2Fdictionary%2Fenglish%2Ftomato&psig=AOvVaw19up1esJwtEOsvHiOVOCRD&ust=1670942445081000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjD1ein9PsCFQAAAAAdAAAAABAE",
+    "unit": "Kg",
+    "options": [
+      {
+        "price": 5.00,
+        "supermarket": "Tesco",
+        "address": "123 High Street, Dublin"
+      },
+      {
+        "price": 4.90,
+        "supermarket": "Lidl",
+        "address": "11 High Street, Dublin"
+      },
+      {
+        "price": 4.93,
+        "supermarket": "Spar",
+        "address": "11 Low Street, Dublin"
+      }
+    ]
+  },
+  {
+    "name": "2Kg Carrot",
+    "category": "Vegetable",
+    "thumbnail_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dinneratthezoo.com%2Fhoney-roasted-carrots%2F&psig=AOvVaw1gUdXX-tDhumIpg1D3KJLo&ust=1670942475222000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKibkfen9PsCFQAAAAAdAAAAABAJ",
+    "unit": "Kg",
+    "options": [
+      {
+        "price": 3.00,
+        "supermarket": "Tesco",
+        "address": "123 High Street, Dublin"
+      },
+      {
+        "price": 3.50,
+        "supermarket": "Lidl",
+        "address": "11 High Street, Dublin"
+      },
+      {
+        "price": 3.10,
+        "supermarket": "Spar",
+        "address": "11 Low Street, Dublin"
+      }
+    ]
+  },
+  {
+    "name": "Lettuce",
+    "category": "Vegetable",
+    "thumbnail_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.newyorker.com%2Fculture%2Fkitchen-notes%2Fits-time-to-admit-that-iceberg-is-a-superior-lettuce&psig=AOvVaw0vSZCQ7JNIf7QD1cqj2V0Z&ust=1670942530914000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjv2JGo9PsCFQAAAAAdAAAAABAE",
+    "unit": "Kg",
+    "options": [
+      {
+        "price": 2.80,
+        "supermarket": "Tesco",
+        "address": "123 High Street, Dublin"
+      },
+      {
+        "price": 2.20,
+        "supermarket": "Lidl",
+        "address": "11 High Street, Dublin"
+      },
+      {
+        "price": 2.60,
+        "supermarket": "Spar",
+        "address": "11 Low Street, Dublin"
+      }
+    ]
+  },
+  {
+    "name": "1kg of Pear",
+    "category": "Fruit",
+    "thumbnail_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cooking-chef.fr%2Fespace-recettes%2Fdesserts-entremets-gateaux%2Fsorbet-poire&psig=AOvVaw2v7Ps-klQk7NV3qxyit371&ust=1670942557476000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKCRuZ6o9PsCFQAAAAAdAAAAABAE",
+    "unit": "Kg",
+    "offer": "1",
+    "options": [
+      {
+        "price": 2.00,
+        "supermarket": "Tesco",
+        "address": "123 High Street, Dublin"
+      },
+      {
+        "price": 1.90,
+        "supermarket": "Lidl",
+        "address": "11 High Street, Dublin"
+      },
+      {
+        "price": 1.950,
+        "supermarket": "Spar",
+        "address": "11 Low Street, Dublin"
+      }
+    ]
+  },
+  {
+    "name": "6 Bottles Coca Cola",
+    "category": "Drinks",
+    "thumbnail_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.carrefour.fr%2Fp%2Fsoda-coca-cola-5000112609622&psig=AOvVaw0nOdXRgQOHgxa6zJK7E5q0&ust=1670942587486000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjK7Kyo9PsCFQAAAAAdAAAAABAE",
+    "unit": "L",
+    "options": [
+      {
+        "price": 8.00,
+        "supermarket": "Tesco",
+        "address": "123 High Street, Dublin"
+      },
+      {
+        "price": 7.90,
+        "supermarket": "Lidl",
+        "address": "11 High Street, Dublin"
+      },
+      {
+        "price": 7.40,
+        "supermarket": "Spar",
+        "address": "11 Low Street, Dublin"
+      }
+    ]
+  },
+  {
+    "name": "1L Orange Juices",
+    "category": "Drinks",
+    "thumbnail_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vitamont.com%2Fen%2Fproduct%2Fthe-juice-bar-vitamont%2Fmini-and-maxi-size%2F1-liter%2Fpure-organic-orange-juice-with-pulp%2F&psig=AOvVaw1AyWryv2jS86gskem8UBJv&ust=1670942620290000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOiu97uo9PsCFQAAAAAdAAAAABAE",
+    "unit": "L",
+    "options": [
+      {
+        "price": 1.10,
+        "supermarket": "Tesco",
+        "address": "123 High Street, Dublin"
+      },
+      {
+        "price": 1.10,
+        "supermarket": "Lidl",
+        "address": "11 High Street, Dublin"
+      },
+      {
+        "price": 1.20,
+        "supermarket": "Spar",
+        "address": "11 Low Street, Dublin"
+      }
+    ]
+  },
+  {
+    "name": "1L Apple Juices",
+    "category": "Drinks",
+    "thumbnail_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fus.coca-cola.com%2Fdirect%2Fminute-maid-apple-juice-bottles-12-fl-oz-14-pack&psig=AOvVaw066yG2er5J3QTUkzhCIOD4&ust=1670942640713000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjKhMao9PsCFQAAAAAdAAAAABAJ",
+    "unit": "L",
+    "options": [
+      {
+        "price": 1.10,
+        "supermarket": "Tesco",
+        "address": "123 High Street, Dublin"
+      },
+      {
+        "price": 1.10,
+        "supermarket": "Lidl",
+        "address": "11 High Street, Dublin"
+      },
+      {
+        "price": 1.20,
+        "supermarket": "Spar",
+        "address": "11 Low Street, Dublin"
+      }
+    ]
+  },
+  {
+    "name": "8x Strawberry Yogurt",
+    "category": "Dairy",
+    "thumbnail_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.target.com%2Fp%2Fyoplait-original-strawberry-yogurt-6oz%2F-%2FA-13016477&psig=AOvVaw3tg6cvR0wZhYupfrYcxOW0&ust=1670942675163000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjxydao9PsCFQAAAAAdAAAAABAE",
+    "unit": "L",
+    "options": [
+      {
+        "price": 3.90,
+        "supermarket": "Tesco",
+        "address": "123 High Street, Dublin"
+      },
+      {
+        "price": 3.70,
+        "supermarket": "Lidl",
+        "address": "11 High Street, Dublin"
+      },
+      {
+        "price": 3.90,
+        "supermarket": "Spar",
+        "address": "11 Low Street, Dublin"
+      }
+    ]
+  }
 
-  ]
+]

@@ -1,5 +1,9 @@
 # it-architecture-prototype
 
+# Website url
+http://54.216.240.31:3000/
+
+
 ## Building the app
 
 ```bash
